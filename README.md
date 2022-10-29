@@ -1,5 +1,5 @@
 # ProyectoFinalTicTacToe
-Proyecto Final Programación
+Proyecto Final de Programación II
 
 Integrantes:
 Kevin Alexander Cordón García,
